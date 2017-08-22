@@ -38,5 +38,5 @@
   },
   "devDependencies": {
     "simple-plist": "0.0.4"
-  },
+  }
 }

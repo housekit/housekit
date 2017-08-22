@@ -29,7 +29,7 @@ ACTest.pincode = "031-45-154";
 // set some basic properties (these values are arbitrary and setting them is optional)
 ACTest
   .getService(Service.AccessoryInformation)
-  .setCharacteristic(Characteristic.Manufacturer, "Sample Company")
+  .setCharacteristic(Characteristic.Manufacturer, "HouseKit")
 
 // listen for the "identify" event for this Accessory
 ACTest.on('identify', function(paired, callback) {
